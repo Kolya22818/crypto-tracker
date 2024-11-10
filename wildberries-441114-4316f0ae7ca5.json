@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "wildberries-441114",
+  "private_key_id": "4316f0ae7ca5b89772f7b1c213d32c2f06cf3fcf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCSwilMPN5tSCKH\nv3Kt430pSbveBBaMNqO6qzS0FVZymvo21afW2IeLA2cZd+/EVFRcIj7gLNMm6aDD\n27kuEr2lKsJcgvWPSjamaveiUONYL3Z98GWlVOqdLY18pNR6ci12HW0p9qrbJeiq\nKS5Dro4+JuUTXfs6O/dWlyXIzzJZP9NuXf73b6NRSvkBVOYw8Gb8noQJscj7zKue\n+IBjrw85IzdNiCiBWwQ7EPtfl83bUcEEA+jgFr0YQQoZoTe4kh9NqPUwO6cHPkga\neNkLcg/D+m6228VbN9iS31m0LNnJ1WHd9T6nUXRnWg+iwvGtNrscM9FvBLtVdaoh\nGX6UjzsxAgMBAAECggEAGSpeNoqBga/K7AgyPAs0XS4dnvaIf0anUM0m3nKCPmjA\n20JL45WBuJ6+wSlF3h6v0JS2v24wTw3k2XEGEhZ4mqf4aDC0tvt835CcIiNIuMh6\nwyHD7FPhX05+Yo9JOC34CbcGDxoTNj0L5pHlMwntrk6xHV8SQ2wg/6Ivgn21HoSG\nttfiBE2YlLe94iNRLCfEjmdPsVuPJz9pHeVMepkSGFjOR9+0M3uHUStx5fHDu3N1\nPF76eqdpL5au6hnAVrbYA3pUUDen2OCzUFjsRmQJbHDkcITJQzC0U2VHQSJDWJ2N\n4skY2Z98/fbyOYbmJJXi9UT8N+aL3jXazmNCyVSPoQKBgQDPTYuaxVQD8ljnbIAm\np7nFEMx21l+bJX1aLbFIT/g48G17e0XAQnPJhiWrKYn+U4t0y3c+wykf5xEF+gQh\nIwLUzQ6Se5LiwmPfMnN8SfSCtj4JRmcTl/VZpl0EI19U0kqjCEl59JN2NwQGWjD4\nGDcuGMzlvcKkyp99ZLi0m32ThQKBgQC1O7A/YRa6PnRDvs9L9okIp4ePKsXX8E/D\n8yjSezDI22/sAg1IawLdqGshKXEMDTEenpksjw7I/3B4vQ2FAqX2kvSwjgZ7RSjb\n916CLQy/14M+i3Hf6k4f4lARK87UZzA09paXZTzFhmZXoqlmb5fSX9gOndURpnO+\nHIHt/0eqvQKBgQCyx+XGLLgwTyltLJ24uJ313m73bho16zcYNp/WBWHFeVRyUfXt\nwWGqQw7pdoGT3OlAaNkGP7mP0e9UgDJfgZpHfDE9E2WyOoN3UkNWxVEiCZmm1hi/\nRSZLkrZVg0wMEvBbeiIkE1G5eej2sYHZ9Mhh8PGEkQr0o+q4ccz5tb+vIQKBgQCU\nUHmnFIxl9HBvdHru/p4cgAWXK3jnhBmzEY7J2dkNt087xF4ccr7QqWCqreB+7VjS\nZxaRea2u3iSsGoMy4/zv8knfJwu0299ZTHKCc92oLfWRPMr/ZR90RmAh/UjxWFUC\nMv8AfPAj8h5U/6BEXXTQzHDjXVUecars3SWToMOEvQKBgBX3+cUPToxSDY3Dvyih\n1LMYABHvrTywW6jnt6JhJKsPk16858xZk/Zg7ECt46oa2IPEYTibjIlVfGPfZ3m0\niTKHV47EsuXdJ+CF08GNGbFs/NCy7PracgaoVn9A+tXNlu+o1aee3rP/POl4m0nV\n6xBd3Z2ZzE6gHcF4fsIcWjN1\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-442@wildberries-441114.iam.gserviceaccount.com",
+  "client_id": "115379344531900023048",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-442%40wildberries-441114.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
